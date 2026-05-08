@@ -1,0 +1,1 @@
+export { default as gradeRouter } from "./grade.controller.js";

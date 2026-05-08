@@ -1,0 +1,1 @@
+export { default as scheduleRouter } from "./schedule.controller.js";

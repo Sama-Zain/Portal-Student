@@ -1,0 +1,1 @@
+export { default as announceRouter } from "./announ.controller.js";
